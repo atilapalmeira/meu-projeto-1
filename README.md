@@ -1,1 +1,1 @@
-# Esse é meu primeiro projeto com Gith
+# Esse é meu primeiro projeto com Git
